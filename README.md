@@ -1,5 +1,7 @@
 # Boto3--Cognito-S3
 Python script to automate Cognito authentication and S3 configuration
+
+
 1.1. Sign_up Script
 The purpose of this script is to create a User sign up and populate it in Cognito-identity pool and this also sends a confirmation email to the user.
 
